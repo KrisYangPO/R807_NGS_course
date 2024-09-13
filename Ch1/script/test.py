@@ -1,4 +1,4 @@
-#!/Users/yanggpo/anaconda3/bin/python
+#!/usr/bin/python3
 
 word = "HAHAHA"
 
