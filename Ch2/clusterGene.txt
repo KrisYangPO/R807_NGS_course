@@ -1,0 +1,13 @@
+Cluster1	GAPDH
+Cluster2	Zc3h14
+Cluster2	Scarna9
+Cluster2	Mir7042
+Cluster3	Cysrt1
+Cluster3	Mzb1
+Cluster3	Khdrbs1
+Cluster4	Cbr2
+Cluster4	Asic3
+Cluster5	Cbr2-s2
+Cluster5	Scarna9-s2
+Cluster5	Srp54a
+
